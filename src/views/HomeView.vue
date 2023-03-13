@@ -23,7 +23,7 @@ function play() {
       <div class="integrantesContainer">
         <div class="integranteCard">
           <div class="integrante">
-            <img src="/egrilo.PNG" alt="egrilo">
+            <img src="/egrilo.jpg" alt="egrilo">
             <h1>Pathy Egrilo</h1>
           </div>
           <div class="integrantes">
